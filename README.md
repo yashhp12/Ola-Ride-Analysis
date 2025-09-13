@@ -76,3 +76,16 @@ DIVIDE(
 Avg Rating = AVERAGE(Rides[Customer_Rating])
 
 >>>>>>> d9fd612 (Added Ola Ride Analysis project with SQL, Power BI, and README)
+
+## Power BI Dashboard
+
+Visual representation of insights with interactive charts:
+
+### Dashboard Overview 1
+![Dashboard 1](images/dashboard1.png)
+
+### Dashboard Overview 4
+![Dashboard 2](images/dashboard4.png)
+
+### Dashboard Overview 5
+![Dashboard 3](images/dashboard5.png)
